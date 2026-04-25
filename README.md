@@ -341,7 +341,11 @@ footer {
 ## OUTPUT
 <img width="1600" height="915" alt="web exp1 output1" src="https://github.com/user-attachments/assets/6b67a294-f1e0-4ce7-9c7c-bbc556cc21b9" />
 
+<br>
+
 <img width="1600" height="908" alt="web exp1 output2" src="https://github.com/user-attachments/assets/a47d7f74-7af5-41b8-b06b-5d6089ab39cb" />
+
+<br>
 
 <img width="1600" height="951" alt="web exp1 output3" src="https://github.com/user-attachments/assets/fa73f1b0-8c5f-4804-a015-d170e466c4a2" />
 
